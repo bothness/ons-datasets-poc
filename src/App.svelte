@@ -151,7 +151,7 @@
 
 <Section marginTop>
 	<Notice>
-		<p style:margin-bottom="18px">This is a proof-of-concept (POC) prototype for a dataset catalogue page based on the datasets within the <a href="https://developer.ons.gov.uk/dataset/" target="_blank">legacy ONS beta API</a>, based on existing catalogue pages and the ONS design system. It is also intended to highlight some of the limitations of the legacy API.</p>
+		<p style:margin-bottom="18px">This is a proof-of-concept (POC) prototype for a dataset catalogue page based on the datasets within the <a href="https://developer.ons.gov.uk/dataset/" target="_blank">legacy ONS beta API</a>. The layout broadly follows existing catalogue pages and the ONS design system. It is also intended to highlight some of the limitations of the legacy API.</p>
 	<Twisty title="API limitations">
 		<p>A number of workarounds were required to make this prototype run from the API:</p>
 		<List>
